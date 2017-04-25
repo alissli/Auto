@@ -4,3 +4,5 @@ English for tooling
 - spare parts  备件
 - demould with force
 - forced demoulding
+- core   前模
+- cavity 后模
